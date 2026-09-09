@@ -8,4 +8,4 @@
 `N/A` 
 
 ## Verbal Collaboration
-`N/A` 
+Sorachat ChaiChana: Discussed ways to implement delete button
